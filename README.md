@@ -78,10 +78,7 @@
 ### Как запустить проект
 
 ```bash
-git clone https://github.com/o-gamak/4_2_workshop
-cd 4_2_workshop
-pip install -r requirements.txt
-jupyter notebook notebook.ipynb
+bash <(curl -fsSL https://raw.githubusercontent.com/o-gamak/4_2_workshop/main/run.sh)
 ```
 
 ### Структура проекта
