@@ -78,8 +78,8 @@
 ### Как запустить проект
 
 ```bash
-git clone https://github.com/o-gamak/DS_Practicum/tree/main/4-2_Workshop
-cd 4-2_Workshop
+git clone https://github.com/o-gamak/4_2_workshop
+cd 4_2_workshop
 pip install -r requirements.txt
 jupyter notebook notebook.ipynb
 ```
